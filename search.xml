@@ -6,11 +6,6 @@
     <content type="text"><![CDATA[描述这是文章1.1本文是关于【静动画测试】，详情请看下面。 静态图片1使用格式一：![](image.jpg) 1使用格式二：&gt;&#123;% asset_img 静态.jpg 静态图片预览 %&#125; 动态图片1使用格式一：&gt;![](动态.gif) 1使用格式二：&gt;&#123;% asset_img 动态.gif 动态图片预览 %&#125;]]></content>
   </entry>
   <entry>
-    <title><![CDATA[文章标题1.2]]></title>
-    <url>%2F2018%2F05%2F30%2F%E5%88%86%E7%B1%BB1%2F2018-05-30%20%E6%96%87%E7%AB%A01.2%2F</url>
-    <content type="text"><![CDATA[描述这是文章1.2本文是关于【静动画测试】，详情请看下面。 静态图片1使用格式一：![](image.jpg) 1使用格式二：&gt;&#123;% asset_img 静态.jpg 静态图片预览 %&#125; 动态图片1使用格式一：&gt;![](动态.gif) 1使用格式二：&gt;&#123;% asset_img 动态.gif 动态图片预览 %&#125;]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[文章标题2.1]]></title>
     <url>%2F2018%2F05%2F30%2F%E5%88%86%E7%B1%BB2%2F2018-05-30%20%E6%96%87%E7%AB%A02.1%2F</url>
     <content type="text"><![CDATA[描述这是文章2.1本文是关于【静动画测试】，详情请看下面。 静态图片1使用格式一：![](image.jpg) 1使用格式二：&gt;&#123;% asset_img 静态.jpg 静态图片预览 %&#125; 动态图片1使用格式一：&gt;![](动态.gif) 1使用格式二：&gt;&#123;% asset_img 动态.gif 动态图片预览 %&#125;]]></content>
